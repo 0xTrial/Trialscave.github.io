@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Cave</title>
+    <link>https://trialscave.github.io/posts/</link>
+    <description>Recent content in Posts on The Cave</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Nov 2023 19:08:03 +0200</lastBuildDate><atom:link href="https://trialscave.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello_world</title>
+      <link>https://trialscave.github.io/posts/hello_world/</link>
+      <pubDate>Tue, 07 Nov 2023 19:08:03 +0200</pubDate>
+      
+      <guid>https://trialscave.github.io/posts/hello_world/</guid>
+      
+      <description>Hey, welcome to my blog.
+I&amp;rsquo;m Trial, a twenty-something year old LARPing as a gnome on the interwebs.
+As of writing this post, I&amp;rsquo;ve spent 6+ years following crypto related content, be it history, flipping shitcoins, ideology, getting rugged or the technology behind it.
+That being said, it&amp;rsquo;s not the only thing I know or care about. Over the years I&amp;rsquo;ve amassed swathes of knowledge and ideas, realised a few, discussed some, forgotten many.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://trialscave.github.io/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trialscave.github.io/posts/hello-world/</guid>
+      
+      <description>Hey, welcome to my blog.
+I&amp;rsquo;m Trial, a twenty-something year old LARPing as a gnome on the interwebs.
+As of writing this post, I&amp;rsquo;ve spent 6+ years following crypto related content, be it history, flipping shitcoins, ideology, getting rugged or the technology behind it.
+That being said, it&amp;rsquo;s not the only thing I know or care about. Over the years I&amp;rsquo;ve amassed swathes of knowledge and ideas, realised a few, discussed some, forgotten many.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
